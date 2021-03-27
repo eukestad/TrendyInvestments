@@ -11,17 +11,6 @@ CREATE DATABASE investments_db
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1;
 	
-create table inx_data (
-	id serial primary key,
-	date date,
-	open decimal,
-	high decimal,
-	low decimal,
-	close decimal,
-	daily_change decimal,
-	ticker varchar(3)
-);
-
 create table var_data (
 	id serial primary key,
 	date date,
