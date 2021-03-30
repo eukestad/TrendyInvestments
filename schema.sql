@@ -10,8 +10,8 @@ CREATE DATABASE investments_db
     LC_CTYPE = 'English_United States.1252'
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1;
-	
-create table var_data (
+  	
+create table historical_data (
 	id serial primary key,
 	date date,
 	open decimal,
