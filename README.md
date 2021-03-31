@@ -8,11 +8,11 @@ Here we explore the historical data of Game Stop, Bitcoin and the S&P 500. We ha
 * Listed here are links to the original Data Sources our team has used for the project. The data was pulled from Marketwatch.com and downloaded as CSV files. 
 * During extraction, we pulled five files from each source to generate data from the past five years. 
 
-[Bitcoin Data](https://www.marketwatch.com/investing/cryptocurrency/btcusd/download-data)
+  * [Bitcoin Data](https://www.marketwatch.com/investing/cryptocurrency/btcusd/download-data)
 
-[S&P Data](https://www.marketwatch.com/investing/index/spx/download-data)
+  * [S&P Data](https://www.marketwatch.com/investing/index/spx/download-data)
 
-[GameStop Data](https://www.marketwatch.com/investing/stock/gme/download-data)
+  * [GameStop Data](https://www.marketwatch.com/investing/stock/gme/download-data)
 
 
 ## Transform
