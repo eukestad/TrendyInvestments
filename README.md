@@ -28,7 +28,8 @@ Here we explore the historical data of _Game Stop_, _Bitcoin_ and the _S&P 500_.
 
 ![Jupyter Image](images/2.png)
 
-
+## Using the Repository
+To use the repository, clone it or download it as an archive. Create the investments_db in your Postgres environment and then run the Jupyter Notebook.
 
 
 
