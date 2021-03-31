@@ -1,6 +1,5 @@
 # Trendy Investments
-Trending investments and their volatility:
-Here we explore the historical data of Game Stop, Bitcoin and the S&P 500. We have chosen to measure their performance in the market. 
+Here we explore the historical data of _Game Stop_, _Bitcoin_ and the _S&P 500_. We have chosen to measure their performance in the market. 
 
 ![Investments](images/3.jpg)
 
